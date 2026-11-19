@@ -1,0 +1,17 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "NOMBRE": "Punto de prueba",
+        "TIPO": "Receptor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.65, -33.45]
+      }
+    }
+  ]
+}
